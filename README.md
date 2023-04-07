@@ -22,7 +22,7 @@
 
 - :zap: In my free time, I solve problems on <a href="https://www.codewars.com/users/Viziter">CodeWars</a> and do exersice.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ilya-zlotnik-a08197b0))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ilya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-zlotnik-a08197b0) [![Linkedin Badge](https://img.shields.io/badge/-@Ilya-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/IlyaZlotnik) [![Linkedin Badge](https://img.shields.io/badge/-zlotnik_ilya-green?style=flat&logo=Gmail&logoColor=red)](mailto:zlotnik.ilya1994@gmail.com)
 
 
 
